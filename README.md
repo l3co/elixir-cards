@@ -1,6 +1,15 @@
 # Cards
 
-**TODO: Add description**
+**The Complete Elixir and Phoenix BootcampYour progress**
+
+* Elixir Fundamentals
+* Pattern Matching 
+* Interoperability with Erlang
+* Documentation 
+* Test
+  * Test Docs
+* Dependencies 
+  * How to configure and install new dependencies
 
 ## Installation
 
