@@ -18,6 +18,12 @@ defmodule Cards do
     List.flatten(cards)
   end
 
+  @doc """
+  Shuffling a deck, `deck` is a list of cards.
+  ## Example
+      iex> my_list = [1, 2, 3]
+      iex> Cards.shuffle(my_list)
+  """
   def shuffle(deck) do
     Enum.shuffle(deck)
   end
